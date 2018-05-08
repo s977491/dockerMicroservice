@@ -10,3 +10,5 @@
 rootProject.name = 'dockerMicroservice'
 
 include 'config-server'
+include 'employee-eureka'
+include 'EmployeeSearchService'
